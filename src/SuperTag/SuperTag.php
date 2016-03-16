@@ -60,20 +60,20 @@ class SuperTag extends PluginBase implements Listener{
 				if($this->st==5){
 					$p->setNameTag("§1" .$tag. "§r" .$name. "§2" .$tag);
 				}
-				if($this->ss==4){
+				if($this->st==4){
 					 $p->setNameTag("§3" .$tag. "§r" .$name. "§4" .$tag);
 				}
-				if($this->ss==3){
+				if($this->st==3){
 					 $p->setNameTag("§5" .$tag. "§r" .$name. "§6" .$tag);
 				}
-				if($this->ss==2){
+				if($this->st==2){
 					 $p->setNameTag("§e" .$tag. "§r" .$name. "§d" .$tag);
 				}
-				if($this->ss==1){
+				if($this->st==1){
 					 $p->setNameTag("§b" .$tag. "§r" .$name. "§a" .$tag);
 				}
-				if($this->ss==0){
-					$this->ss=6;
+				if($this->st==0){
+					$this->st=5;
 				}
 			}
 			
