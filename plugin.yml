@@ -1,8 +1,0 @@
-name: SuperTag
-main: SuperTag\SuperTag
-version: 1.0
-author: EmreTr1
-api: 1.13.0
-commands:
- st:
-  description: "very cool plugin"
