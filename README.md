@@ -1,2 +1,16 @@
 # SuperTAG-PM
-Supertag very cool tag your name after :P STATUS: WORKING ! BUG? -> PLS REPORT FOR POCKETMINE!
+Supertag very cool Tag plugin.
+STATUS: WORKING!
+
+Commands:
+
+- /st mode on
+- /st mode off
+
+#New Version 1.1
+
+- More Bug fixed!
+- added on|off command
+- changed tag style
+
+Plugin By: EmreTr1
